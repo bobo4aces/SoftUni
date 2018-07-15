@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\02. Spy Gram\bin\Debug\_02.Spy_Gram.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\02. Spy Gram\bin\Debug\_02.Spy_Gram.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\02. Spy Gram\bin\Debug\_02.Spy_Gram.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\02. Spy Gram\obj\Debug\02. Spy Gram.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\02. Spy Gram\obj\Debug\02. Spy Gram.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\02. Spy Gram\obj\Debug\_02.Spy_Gram.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\02. Spy Gram\obj\Debug\_02.Spy_Gram.pdb

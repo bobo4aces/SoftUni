@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\26. Float or Integer\bin\Debug\_26.Float_or_Integer.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\26. Float or Integer\bin\Debug\_26.Float_or_Integer.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\26. Float or Integer\bin\Debug\_26.Float_or_Integer.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\26. Float or Integer\obj\Debug\26. Float or Integer.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\26. Float or Integer\obj\Debug\_26.Float_or_Integer.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\26. Float or Integer\obj\Debug\_26.Float_or_Integer.pdb

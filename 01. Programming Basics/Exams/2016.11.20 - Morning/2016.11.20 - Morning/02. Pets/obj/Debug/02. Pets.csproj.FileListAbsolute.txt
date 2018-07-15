@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\02. Pets\bin\Debug\_02.Pets.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\02. Pets\bin\Debug\_02.Pets.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\02. Pets\bin\Debug\_02.Pets.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\02. Pets\obj\Debug\02. Pets.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\02. Pets\obj\Debug\_02.Pets.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\02. Pets\obj\Debug\_02.Pets.pdb

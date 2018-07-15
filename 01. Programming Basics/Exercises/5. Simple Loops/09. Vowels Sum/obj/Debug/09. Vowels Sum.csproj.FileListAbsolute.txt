@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\09. Vowels Sum\obj\Debug\09. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.pdb

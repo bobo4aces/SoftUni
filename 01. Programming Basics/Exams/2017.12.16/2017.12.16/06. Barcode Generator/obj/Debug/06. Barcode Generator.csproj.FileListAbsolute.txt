@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.12.16\2017.12.16\06. Barcode Generator\bin\Debug\_06.Barcode_Generator.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.12.16\2017.12.16\06. Barcode Generator\bin\Debug\_06.Barcode_Generator.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.12.16\2017.12.16\06. Barcode Generator\bin\Debug\_06.Barcode_Generator.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.12.16\2017.12.16\06. Barcode Generator\obj\Debug\06. Barcode Generator.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.12.16\2017.12.16\06. Barcode Generator\obj\Debug\_06.Barcode_Generator.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.12.16\2017.12.16\06. Barcode Generator\obj\Debug\_06.Barcode_Generator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation III\04. Files\bin\Debug\_04.Files.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation III\04. Files\bin\Debug\_04.Files.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation III\04. Files\bin\Debug\_04.Files.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation III\04. Files\obj\Debug\04. Files.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation III\04. Files\obj\Debug\04. Files.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation III\04. Files\obj\Debug\_04.Files.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation III\04. Files\obj\Debug\_04.Files.pdb

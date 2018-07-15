@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\06. Max Combination\obj\Debug\06. Max Combination.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\06. Max Combination\obj\Debug\_06.Max_Combination.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\06. Max Combination\obj\Debug\_06.Max_Combination.pdb

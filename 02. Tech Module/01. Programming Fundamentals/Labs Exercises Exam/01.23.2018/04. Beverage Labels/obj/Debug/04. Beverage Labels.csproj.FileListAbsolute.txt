@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.23.2018\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.23.2018\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.23.2018\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.23.2018\04. Beverage Labels\obj\Debug\04. Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.23.2018\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.23.2018\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb

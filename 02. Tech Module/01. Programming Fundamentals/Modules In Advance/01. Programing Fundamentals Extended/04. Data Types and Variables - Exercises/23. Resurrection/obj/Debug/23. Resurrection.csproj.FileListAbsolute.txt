@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\23. Resurrection\bin\Debug\_23.Resurrection.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\23. Resurrection\bin\Debug\_23.Resurrection.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\23. Resurrection\bin\Debug\_23.Resurrection.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\23. Resurrection\obj\Debug\23. Resurrection.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\23. Resurrection\obj\Debug\23. Resurrection.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\23. Resurrection\obj\Debug\_23.Resurrection.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\23. Resurrection\obj\Debug\_23.Resurrection.pdb

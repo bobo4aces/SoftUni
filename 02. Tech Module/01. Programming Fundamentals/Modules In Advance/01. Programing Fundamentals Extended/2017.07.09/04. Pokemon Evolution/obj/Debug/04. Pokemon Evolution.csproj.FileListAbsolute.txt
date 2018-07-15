@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.07.09\04. Pokemon Evolution\bin\Debug\_04.Pokemon_Evolution.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.07.09\04. Pokemon Evolution\bin\Debug\_04.Pokemon_Evolution.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.07.09\04. Pokemon Evolution\bin\Debug\_04.Pokemon_Evolution.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.07.09\04. Pokemon Evolution\obj\Debug\04. Pokemon Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.07.09\04. Pokemon Evolution\obj\Debug\04. Pokemon Evolution.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.07.09\04. Pokemon Evolution\obj\Debug\_04.Pokemon_Evolution.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.07.09\04. Pokemon Evolution\obj\Debug\_04.Pokemon_Evolution.pdb

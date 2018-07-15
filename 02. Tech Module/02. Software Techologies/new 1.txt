@@ -1,0 +1,15 @@
+params.id -> link
+task.title - whole task
+title - properties
+!!!In PHP entity/task -> delete
+1. Model
+ - PHP doctrine
+2. Controller
+ For each Get/Post
+ - JAVA - check TaskRepository
+ - index 
+ - npm start
+ - check
+
+ 
+ 

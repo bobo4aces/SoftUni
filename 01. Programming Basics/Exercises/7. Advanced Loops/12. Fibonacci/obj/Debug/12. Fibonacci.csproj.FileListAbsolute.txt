@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\12. Fibonacci\obj\Debug\12. Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\12. Fibonacci\obj\Debug\12. Fibonacci.csprojResolveAssemblyReference.cache

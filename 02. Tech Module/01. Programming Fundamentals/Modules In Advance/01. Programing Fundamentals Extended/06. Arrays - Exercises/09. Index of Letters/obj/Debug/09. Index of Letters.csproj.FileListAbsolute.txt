@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\09. Index of Letters\obj\Debug\09. Index of Letters.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\09. Index of Letters\obj\Debug\_09.Index_of_Letters.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\09. Index of Letters\obj\Debug\_09.Index_of_Letters.pdb

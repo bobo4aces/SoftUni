@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\1. Practice Integer Numbers\obj\Debug\1. Practice Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\1. Practice Integer Numbers\obj\Debug\_1.Practice_Integer_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\1. Practice Integer Numbers\obj\Debug\_1.Practice_Integer_Numbers.pdb

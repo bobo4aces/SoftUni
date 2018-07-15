@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\05. Fibonacci Numbers\obj\Debug\05. Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\05. Fibonacci Numbers\obj\Debug\05. Fibonacci Numbers.csprojResolveAssemblyReference.cache

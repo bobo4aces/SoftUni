@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\04. Trainlands\bin\Debug\_04.Trainlands.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\04. Trainlands\bin\Debug\_04.Trainlands.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\04. Trainlands\bin\Debug\_04.Trainlands.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\04. Trainlands\obj\Debug\04. Trainlands.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\04. Trainlands\obj\Debug\04. Trainlands.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\04. Trainlands\obj\Debug\_04.Trainlands.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\04. Trainlands\obj\Debug\_04.Trainlands.pdb

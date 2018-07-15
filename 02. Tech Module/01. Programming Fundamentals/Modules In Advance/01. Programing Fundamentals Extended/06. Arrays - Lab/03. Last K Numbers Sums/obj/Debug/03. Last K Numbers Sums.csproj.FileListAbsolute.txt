@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache

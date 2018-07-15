@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\08. House Builder\bin\Debug\_08.House_Builder.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\08. House Builder\bin\Debug\_08.House_Builder.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\08. House Builder\bin\Debug\_08.House_Builder.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\08. House Builder\obj\Debug\08. House Builder.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\08. House Builder\obj\Debug\_08.House_Builder.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\08. House Builder\obj\Debug\_08.House_Builder.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\08. House Builder\obj\Debug\08. House Builder.csprojResolveAssemblyReference.cache

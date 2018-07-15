@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Exercir\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Exercir\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Exercir\14. Magic Letter\bin\Debug\_14.Magic_Letter.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Exercir\14. Magic Letter\obj\Debug\14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Exercir\14. Magic Letter\obj\Debug\_14.Magic_Letter.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Exercir\14. Magic Letter\obj\Debug\_14.Magic_Letter.pdb

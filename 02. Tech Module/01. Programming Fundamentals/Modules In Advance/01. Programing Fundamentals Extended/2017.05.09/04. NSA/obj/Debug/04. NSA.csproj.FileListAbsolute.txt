@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\04. NSA\bin\Debug\_04.NSA.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\04. NSA\bin\Debug\_04.NSA.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\04. NSA\bin\Debug\_04.NSA.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\04. NSA\obj\Debug\04. NSA.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\04. NSA\obj\Debug\04. NSA.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\04. NSA\obj\Debug\_04.NSA.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.05.09\04. NSA\obj\Debug\_04.NSA.pdb

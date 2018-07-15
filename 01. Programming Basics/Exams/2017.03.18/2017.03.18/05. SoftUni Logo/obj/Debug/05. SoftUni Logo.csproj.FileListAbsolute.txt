@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.18\2017.03.18\05. SoftUni Logo\bin\Debug\_05.SoftUni_Logo.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.18\2017.03.18\05. SoftUni Logo\bin\Debug\_05.SoftUni_Logo.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.18\2017.03.18\05. SoftUni Logo\bin\Debug\_05.SoftUni_Logo.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.18\2017.03.18\05. SoftUni Logo\obj\Debug\05. SoftUni Logo.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.18\2017.03.18\05. SoftUni Logo\obj\Debug\_05.SoftUni_Logo.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.18\2017.03.18\05. SoftUni Logo\obj\Debug\_05.SoftUni_Logo.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.18\2017.03.18\05. SoftUni Logo\obj\Debug\05. SoftUni Logo.csprojResolveAssemblyReference.cache

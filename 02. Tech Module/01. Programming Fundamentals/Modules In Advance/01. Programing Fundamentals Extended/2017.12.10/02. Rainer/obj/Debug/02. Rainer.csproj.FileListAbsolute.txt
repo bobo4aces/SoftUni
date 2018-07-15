@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.12.10\02. Rainer\bin\Debug\_02.Rainer.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.12.10\02. Rainer\bin\Debug\_02.Rainer.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.12.10\02. Rainer\bin\Debug\_02.Rainer.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.12.10\02. Rainer\obj\Debug\02. Rainer.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.12.10\02. Rainer\obj\Debug\02. Rainer.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.12.10\02. Rainer\obj\Debug\_02.Rainer.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.12.10\02. Rainer\obj\Debug\_02.Rainer.pdb

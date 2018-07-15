@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\03. Trainegram\bin\Debug\_03.Trainegram.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\03. Trainegram\bin\Debug\_03.Trainegram.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\03. Trainegram\bin\Debug\_03.Trainegram.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\03. Trainegram\obj\Debug\03. Trainegram.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\03. Trainegram\obj\Debug\03. Trainegram.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\03. Trainegram\obj\Debug\_03.Trainegram.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\2017.08.20\03. Trainegram\obj\Debug\_03.Trainegram.pdb

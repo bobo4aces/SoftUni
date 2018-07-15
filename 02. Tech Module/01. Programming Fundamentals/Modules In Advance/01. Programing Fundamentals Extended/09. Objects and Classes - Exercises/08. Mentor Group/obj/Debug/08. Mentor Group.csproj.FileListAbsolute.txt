@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\08. Mentor Group\obj\Debug\08. Mentor Group.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\08. Mentor Group\obj\Debug\08. Mentor Group.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\08. Mentor Group\obj\Debug\_08.Mentor_Group.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\08. Mentor Group\obj\Debug\_08.Mentor_Group.pdb

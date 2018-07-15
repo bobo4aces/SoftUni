@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.17\05. Sheriff\bin\Debug\_05.Sheriff.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.17\05. Sheriff\bin\Debug\_05.Sheriff.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.17\05. Sheriff\bin\Debug\_05.Sheriff.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.17\05. Sheriff\obj\Debug\05. Sheriff.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.17\05. Sheriff\obj\Debug\_05.Sheriff.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.17\05. Sheriff\obj\Debug\_05.Sheriff.pdb

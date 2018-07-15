@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\06. Math Power\bin\Debug\_06.Math_Power.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\06. Math Power\bin\Debug\_06.Math_Power.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\06. Math Power\bin\Debug\_06.Math_Power.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\06. Math Power\obj\Debug\06. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\06. Math Power\obj\Debug\_06.Math_Power.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\06. Math Power\obj\Debug\_06.Math_Power.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.22.2018\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.22.2018\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.22.2018\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.22.2018\06. Valid Usernames\obj\Debug\06. Valid Usernames.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.22.2018\06. Valid Usernames\obj\Debug\06. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.22.2018\06. Valid Usernames\obj\Debug\_06.Valid_Usernames.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.22.2018\06. Valid Usernames\obj\Debug\_06.Valid_Usernames.pdb

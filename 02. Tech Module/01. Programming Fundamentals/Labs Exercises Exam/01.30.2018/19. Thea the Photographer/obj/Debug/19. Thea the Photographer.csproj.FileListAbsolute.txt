@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\19. Thea the Photographer\bin\Debug\_19.Thea_the_Photographer.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\19. Thea the Photographer\obj\Debug\19. Thea the Photographer.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\19. Thea the Photographer\obj\Debug\_19.Thea_the_Photographer.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\19. Thea the Photographer\obj\Debug\_19.Thea_the_Photographer.pdb

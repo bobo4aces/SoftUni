@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\10. Strings and Text Processing - Exercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\10. Strings and Text Processing - Exercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\10. Strings and Text Processing - Exercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\10. Strings and Text Processing - Exercises\06. Sum big numbers\obj\Debug\06. Sum big numbers.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\10. Strings and Text Processing - Exercises\06. Sum big numbers\obj\Debug\06. Sum big numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\10. Strings and Text Processing - Exercises\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\10. Strings and Text Processing - Exercises\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.pdb

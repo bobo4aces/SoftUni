@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\05. BPM Counter\obj\Debug\05. BPM Counter.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\05. BPM Counter\obj\Debug\05. BPM Counter.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\05. BPM Counter\obj\Debug\_05.BPM_Counter.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\05. BPM Counter\obj\Debug\_05.BPM_Counter.pdb

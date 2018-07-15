@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\08. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\08. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\08. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\08. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\obj\Debug\04. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\08. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\08. Dictionaries, Lambda and LINQ - Lab\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.pdb

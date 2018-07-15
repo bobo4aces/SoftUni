@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\08. Factorial\bin\Debug\_08.Factorial.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\08. Factorial\bin\Debug\_08.Factorial.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\08. Factorial\bin\Debug\_08.Factorial.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\08. Factorial\obj\Debug\08. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\08. Factorial\obj\Debug\_08.Factorial.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\08. Factorial\obj\Debug\_08.Factorial.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb

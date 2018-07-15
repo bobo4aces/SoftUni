@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\03. Powers of Two\obj\Debug\03. Powers of Two.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.pdb

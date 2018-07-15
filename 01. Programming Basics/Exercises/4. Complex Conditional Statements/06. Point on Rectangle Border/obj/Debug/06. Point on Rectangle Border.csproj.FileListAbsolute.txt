@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\06. Point on Rectangle Border\obj\Debug\06. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.pdb

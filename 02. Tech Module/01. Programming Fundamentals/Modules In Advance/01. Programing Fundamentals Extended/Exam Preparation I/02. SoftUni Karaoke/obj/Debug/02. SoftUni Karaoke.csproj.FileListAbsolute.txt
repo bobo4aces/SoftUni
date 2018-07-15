@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\02. SoftUni Karaoke\obj\Debug\02. SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.pdb

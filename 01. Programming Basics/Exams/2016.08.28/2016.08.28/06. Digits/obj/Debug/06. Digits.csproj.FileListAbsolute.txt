@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\06. Digits\bin\Debug\_06.Digits.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\06. Digits\bin\Debug\_06.Digits.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\06. Digits\bin\Debug\_06.Digits.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\06. Digits\obj\Debug\06. Digits.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\06. Digits\obj\Debug\_06.Digits.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\06. Digits\obj\Debug\_06.Digits.pdb

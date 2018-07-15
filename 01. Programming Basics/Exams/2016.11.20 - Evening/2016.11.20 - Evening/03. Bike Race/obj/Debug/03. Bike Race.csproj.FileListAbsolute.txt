@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\03. Bike Race\obj\Debug\03. Bike Race.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\03. Bike Race\obj\Debug\03. Bike Race.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\03. Bike Race\obj\Debug\_03.Bike_Race.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Evening\2016.11.20 - Evening\03. Bike Race\obj\Debug\_03.Bike_Race.pdb

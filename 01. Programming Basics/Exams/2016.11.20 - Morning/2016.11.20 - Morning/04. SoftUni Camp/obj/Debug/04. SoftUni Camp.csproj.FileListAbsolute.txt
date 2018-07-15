@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\04. SoftUni Camp\obj\Debug\04. SoftUni Camp.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.11.20 - Morning\2016.11.20 - Morning\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.pdb

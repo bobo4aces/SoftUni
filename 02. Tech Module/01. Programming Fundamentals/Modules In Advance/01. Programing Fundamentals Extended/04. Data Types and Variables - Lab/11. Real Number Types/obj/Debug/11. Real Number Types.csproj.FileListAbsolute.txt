@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Lab\11. Real Number Types\bin\Debug\_11.Real_Number_Types.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Lab\11. Real Number Types\bin\Debug\_11.Real_Number_Types.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Lab\11. Real Number Types\bin\Debug\_11.Real_Number_Types.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Lab\11. Real Number Types\obj\Debug\11. Real Number Types.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Lab\11. Real Number Types\obj\Debug\_11.Real_Number_Types.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Lab\11. Real Number Types\obj\Debug\_11.Real_Number_Types.pdb

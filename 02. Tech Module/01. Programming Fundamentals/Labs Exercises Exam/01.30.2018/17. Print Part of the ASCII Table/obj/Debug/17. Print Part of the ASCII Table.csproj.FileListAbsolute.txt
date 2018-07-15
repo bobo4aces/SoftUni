@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\17. Print Part of the ASCII Table\bin\Debug\_17.Print_Part_of_the_ASCII_Table.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\17. Print Part of the ASCII Table\obj\Debug\17. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\17. Print Part of the ASCII Table\obj\Debug\_17.Print_Part_of_the_ASCII_Table.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\01.30.2018\17. Print Part of the ASCII Table\obj\Debug\_17.Print_Part_of_the_ASCII_Table.pdb

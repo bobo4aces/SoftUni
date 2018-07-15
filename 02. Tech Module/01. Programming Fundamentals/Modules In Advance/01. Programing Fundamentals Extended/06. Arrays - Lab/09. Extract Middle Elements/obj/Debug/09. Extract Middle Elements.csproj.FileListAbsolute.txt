@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\09. Extract Middle Elements\obj\Debug\09. Extract Middle Elements.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\09. Extract Middle Elements\obj\Debug\09. Extract Middle Elements.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.pdb

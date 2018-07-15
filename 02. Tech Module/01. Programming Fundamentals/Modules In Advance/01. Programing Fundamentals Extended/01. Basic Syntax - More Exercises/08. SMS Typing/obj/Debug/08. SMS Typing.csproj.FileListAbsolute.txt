@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\08. SMS Typing\bin\Debug\_08.SMS_Typing.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\08. SMS Typing\bin\Debug\_08.SMS_Typing.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\08. SMS Typing\bin\Debug\_08.SMS_Typing.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\08. SMS Typing\obj\Debug\08. SMS Typing.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\08. SMS Typing\obj\Debug\08. SMS Typing.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\08. SMS Typing\obj\Debug\_08.SMS_Typing.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Basic Syntax - More Exercises\08. SMS Typing\obj\Debug\_08.SMS_Typing.pdb

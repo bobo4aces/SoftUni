@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.06.25\2017.06.25\04. Money Prize\bin\Debug\_04.Money_Prize.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.06.25\2017.06.25\04. Money Prize\bin\Debug\_04.Money_Prize.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.06.25\2017.06.25\04. Money Prize\bin\Debug\_04.Money_Prize.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.06.25\2017.06.25\04. Money Prize\obj\Debug\04. Money Prize.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.06.25\2017.06.25\04. Money Prize\obj\Debug\_04.Money_Prize.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.06.25\2017.06.25\04. Money Prize\obj\Debug\_04.Money_Prize.pdb

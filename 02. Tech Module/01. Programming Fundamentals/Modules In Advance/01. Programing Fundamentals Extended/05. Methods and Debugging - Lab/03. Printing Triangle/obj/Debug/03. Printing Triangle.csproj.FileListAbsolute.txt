@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb

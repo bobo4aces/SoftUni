@@ -1,0 +1,11 @@
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.deps.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.runtimeconfig.dev.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.dll
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\bin\Debug\netcoreapp2.0\LogNoziroh.pdb
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfoInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.AssemblyInfo.cs
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.dll
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\18. Exam Prep - 3\LogNoziroh\CSharp-Skeleton\LogNoziroh\obj\Debug\netcoreapp2.0\LogNoziroh.pdb

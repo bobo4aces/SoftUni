@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\04. Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\04. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache

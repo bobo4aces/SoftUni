@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\02. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

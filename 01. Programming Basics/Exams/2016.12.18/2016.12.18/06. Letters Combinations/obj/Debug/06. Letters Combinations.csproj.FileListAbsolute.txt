@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\06. Letters Combinations\bin\Debug\_06.Letters_Combinations.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\06. Letters Combinations\obj\Debug\06. Letters Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\06. Letters Combinations\obj\Debug\_06.Letters_Combinations.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\06. Letters Combinations\obj\Debug\_06.Letters_Combinations.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\06. Letters Combinations\obj\Debug\06. Letters Combinations.csprojResolveAssemblyReference.cache

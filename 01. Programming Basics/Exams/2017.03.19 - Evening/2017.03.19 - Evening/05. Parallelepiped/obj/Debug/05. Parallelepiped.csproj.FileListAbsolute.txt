@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\05. Parallelepiped\bin\Debug\_05.Parallelepiped.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\05. Parallelepiped\bin\Debug\_05.Parallelepiped.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\05. Parallelepiped\bin\Debug\_05.Parallelepiped.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\05. Parallelepiped\obj\Debug\05. Parallelepiped.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\05. Parallelepiped\obj\Debug\_05.Parallelepiped.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\05. Parallelepiped\obj\Debug\_05.Parallelepiped.pdb

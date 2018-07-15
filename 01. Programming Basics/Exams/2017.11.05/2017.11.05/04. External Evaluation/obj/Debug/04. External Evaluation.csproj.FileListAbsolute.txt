@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\04. External Evaluation\bin\Debug\_04.External_Evaluation.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\04. External Evaluation\bin\Debug\_04.External_Evaluation.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\04. External Evaluation\bin\Debug\_04.External_Evaluation.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\04. External Evaluation\obj\Debug\04. External Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\04. External Evaluation\obj\Debug\04. External Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\04. External Evaluation\obj\Debug\_04.External_Evaluation.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\04. External Evaluation\obj\Debug\_04.External_Evaluation.pdb

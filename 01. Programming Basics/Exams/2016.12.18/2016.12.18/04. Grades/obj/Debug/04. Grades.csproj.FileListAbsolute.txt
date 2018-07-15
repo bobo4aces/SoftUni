@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\04. Grades\bin\Debug\_04.Grades.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\04. Grades\bin\Debug\_04.Grades.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\04. Grades\bin\Debug\_04.Grades.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\04. Grades\obj\Debug\04. Grades.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\04. Grades\obj\Debug\04. Grades.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\04. Grades\obj\Debug\_04.Grades.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.12.18\2016.12.18\04. Grades\obj\Debug\_04.Grades.pdb

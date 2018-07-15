@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\02. Numbers N-1\obj\Debug\02. Numbers N-1.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\02. Numbers N-1\obj\Debug\_02.Numbers_N_1.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\02. Numbers N-1\obj\Debug\_02.Numbers_N_1.pdb

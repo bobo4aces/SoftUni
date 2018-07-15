@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\16. Comparing floats.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\_16.Comparing_floats.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\_16.Comparing_floats.pdb

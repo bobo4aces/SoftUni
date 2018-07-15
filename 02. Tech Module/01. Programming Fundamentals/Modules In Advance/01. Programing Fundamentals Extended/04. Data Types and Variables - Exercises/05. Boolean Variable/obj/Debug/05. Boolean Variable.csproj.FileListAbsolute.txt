@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\05. Boolean Variable.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

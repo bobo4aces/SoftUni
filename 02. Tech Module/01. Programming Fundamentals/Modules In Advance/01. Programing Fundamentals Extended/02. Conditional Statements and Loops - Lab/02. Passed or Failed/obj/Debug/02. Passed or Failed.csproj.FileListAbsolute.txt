@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\02. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\_02.Passed_or_Failed.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\02. Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\_02.Passed_or_Failed.pdb

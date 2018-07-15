@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\04. Divide\bin\Debug\_04.Divide.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\04. Divide\bin\Debug\_04.Divide.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\04. Divide\bin\Debug\_04.Divide.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\04. Divide\obj\Debug\04. Divide.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\04. Divide\obj\Debug\04. Divide.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\04. Divide\obj\Debug\_04.Divide.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\04. Divide\obj\Debug\_04.Divide.pdb

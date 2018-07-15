@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\03. Truck Driver\bin\Debug\_03.Truck_Driver.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\03. Truck Driver\bin\Debug\_03.Truck_Driver.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\03. Truck Driver\bin\Debug\_03.Truck_Driver.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\03. Truck Driver\obj\Debug\03. Truck Driver.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\03. Truck Driver\obj\Debug\03. Truck Driver.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\03. Truck Driver\obj\Debug\_03.Truck_Driver.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\03. Truck Driver\obj\Debug\_03.Truck_Driver.pdb

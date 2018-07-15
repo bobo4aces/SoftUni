@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\08. Employee Data\obj\Debug\08. Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.pdb

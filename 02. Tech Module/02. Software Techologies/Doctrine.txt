@@ -1,0 +1,1 @@
+php bin/console doctrine:generate:entity SoftUniBlogBundle:Article -n --format=annotation --fields="title:string(length=255 nullable=false unique=true) content:text(nullable=false unique=false) dateAdded:datetime(nullable=false unique=false)"

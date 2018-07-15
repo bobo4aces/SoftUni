@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\02. Numbers Ending in 7\obj\Debug\02. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\5. Simple Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.pdb

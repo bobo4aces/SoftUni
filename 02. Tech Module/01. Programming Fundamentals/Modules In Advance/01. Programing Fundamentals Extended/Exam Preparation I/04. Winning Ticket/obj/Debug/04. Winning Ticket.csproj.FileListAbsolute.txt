@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\04. Winning Ticket\obj\Debug\04. Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\04. Winning Ticket\obj\Debug\04. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.pdb

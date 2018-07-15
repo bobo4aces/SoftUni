@@ -1,0 +1,12 @@
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.deps.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.dev.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.dll
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfo.cs
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.pdb
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.dll
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\14. C# - ASP.NET\Book Library\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.pdb

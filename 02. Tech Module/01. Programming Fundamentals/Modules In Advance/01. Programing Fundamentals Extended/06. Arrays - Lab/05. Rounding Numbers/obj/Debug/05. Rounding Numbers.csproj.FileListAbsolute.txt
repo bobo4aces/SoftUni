@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\05. Rounding Numbers\obj\Debug\05. Rounding Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\05. Rounding Numbers\obj\Debug\05. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.pdb

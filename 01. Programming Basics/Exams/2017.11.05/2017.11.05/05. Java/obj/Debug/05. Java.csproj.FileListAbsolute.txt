@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\05. Java\bin\Debug\_05.Java.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\05. Java\bin\Debug\_05.Java.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\05. Java\bin\Debug\_05.Java.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\05. Java\obj\Debug\05. Java.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\05. Java\obj\Debug\05. Java.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\05. Java\obj\Debug\_05.Java.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.11.05\2017.11.05\05. Java\obj\Debug\_05.Java.pdb

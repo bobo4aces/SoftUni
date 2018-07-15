@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\05. Butterfly\bin\Debug\_05.Butterfly.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\05. Butterfly\bin\Debug\_05.Butterfly.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\05. Butterfly\bin\Debug\_05.Butterfly.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\05. Butterfly\obj\Debug\05. Butterfly.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\05. Butterfly\obj\Debug\_05.Butterfly.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\05. Butterfly\obj\Debug\_05.Butterfly.pdb

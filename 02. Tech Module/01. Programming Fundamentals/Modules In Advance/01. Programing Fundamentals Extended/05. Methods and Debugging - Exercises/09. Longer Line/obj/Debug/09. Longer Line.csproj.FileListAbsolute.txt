@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\09. Longer Line\obj\Debug\09. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\09. Longer Line\obj\Debug\_09.Longer_Line.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\09. Longer Line\obj\Debug\_09.Longer_Line.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\09. Longer Line\obj\Debug\09. Longer Line.csprojResolveAssemblyReference.cache

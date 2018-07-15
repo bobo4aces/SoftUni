@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\06. Number in Range 1-100\bin\Debug\_06.Number_in_Range_1_100.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\06. Number in Range 1-100\bin\Debug\_06.Number_in_Range_1_100.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\06. Number in Range 1-100\bin\Debug\_06.Number_in_Range_1_100.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\06. Number in Range 1-100\obj\Debug\06. Number in Range 1-100.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\06. Number in Range 1-100\obj\Debug\_06.Number_in_Range_1_100.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\06. Number in Range 1-100\obj\Debug\_06.Number_in_Range_1_100.pdb

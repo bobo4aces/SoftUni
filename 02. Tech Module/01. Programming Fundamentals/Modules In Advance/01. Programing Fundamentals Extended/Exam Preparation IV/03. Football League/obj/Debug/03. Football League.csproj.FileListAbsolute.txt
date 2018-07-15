@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\03. Football League\obj\Debug\03. Football League.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\03. Football League\obj\Debug\03. Football League.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\03. Football League\obj\Debug\_03.Football_League.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\03. Football League\obj\Debug\_03.Football_League.pdb

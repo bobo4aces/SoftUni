@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\04. Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\01. Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb

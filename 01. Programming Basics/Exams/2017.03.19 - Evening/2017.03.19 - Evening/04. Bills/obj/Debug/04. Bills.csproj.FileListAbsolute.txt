@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\04. Bills\bin\Debug\_04.Bills.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\04. Bills\bin\Debug\_04.Bills.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\04. Bills\bin\Debug\_04.Bills.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\04. Bills\obj\Debug\04. Bills.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\04. Bills\obj\Debug\_04.Bills.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\04. Bills\obj\Debug\_04.Bills.pdb

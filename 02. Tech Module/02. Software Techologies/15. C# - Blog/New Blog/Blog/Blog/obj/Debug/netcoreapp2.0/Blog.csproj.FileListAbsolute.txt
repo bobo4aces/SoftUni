@@ -1,0 +1,11 @@
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.deps.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.dev.json
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.dll
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.pdb
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.dll
+C:\Users\Bo\Desktop\SoftUni\Software Technologies\15. C# - Blog\New Blog\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.pdb

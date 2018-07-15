@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\01. Sino The Walker\obj\Debug\01. Sino The Walker.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation I\01. Sino The Walker\obj\Debug\01. Sino The Walker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+CREATE TABLE `__EFMigrationsHistory` (
+	`MigrationId` INT NULL,
+	`ProductVersion` VARCHAR(50) NULL
+)

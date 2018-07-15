@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation II\03. Nether Realms\bin\Debug\_03.Nether_Realms.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation II\03. Nether Realms\bin\Debug\_03.Nether_Realms.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation II\03. Nether Realms\bin\Debug\_03.Nether_Realms.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation II\03. Nether Realms\obj\Debug\03. Nether Realms.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation II\03. Nether Realms\obj\Debug\03. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation II\03. Nether Realms\obj\Debug\_03.Nether_Realms.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation II\03. Nether Realms\obj\Debug\_03.Nether_Realms.pdb

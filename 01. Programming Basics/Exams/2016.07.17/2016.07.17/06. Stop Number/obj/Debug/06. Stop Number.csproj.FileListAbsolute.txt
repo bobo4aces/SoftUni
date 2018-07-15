@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\06. Stop Number\bin\Debug\_06.Stop_Number.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\06. Stop Number\bin\Debug\_06.Stop_Number.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\06. Stop Number\bin\Debug\_06.Stop_Number.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\06. Stop Number\obj\Debug\06. Stop Number.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\06. Stop Number\obj\Debug\_06.Stop_Number.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\06. Stop Number\obj\Debug\_06.Stop_Number.pdb

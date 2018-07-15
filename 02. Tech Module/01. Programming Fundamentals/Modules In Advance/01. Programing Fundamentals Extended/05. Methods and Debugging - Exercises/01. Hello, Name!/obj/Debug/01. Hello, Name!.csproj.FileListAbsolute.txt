@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\01. Hello, Name!\obj\Debug\01. Hello, Name!.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\01. Hello, Name!\obj\Debug\01. Hello, Name!.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\05. Methods and Debugging - Exercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.pdb

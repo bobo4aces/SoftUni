@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\07. Lists - Lab\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\07. Lists - Lab\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\07. Lists - Lab\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\07. Lists - Lab\03. Sum Adjacent Equal Numbers\obj\Debug\03. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\07. Lists - Lab\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\07. Lists - Lab\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb

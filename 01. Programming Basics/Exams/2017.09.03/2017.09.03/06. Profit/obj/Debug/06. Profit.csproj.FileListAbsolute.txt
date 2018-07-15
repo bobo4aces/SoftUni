@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\06. Profit\bin\Debug\_06.Profit.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\06. Profit\bin\Debug\_06.Profit.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\06. Profit\bin\Debug\_06.Profit.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\06. Profit\obj\Debug\06. Profit.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\06. Profit\obj\Debug\06. Profit.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\06. Profit\obj\Debug\_06.Profit.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\06. Profit\obj\Debug\_06.Profit.pdb

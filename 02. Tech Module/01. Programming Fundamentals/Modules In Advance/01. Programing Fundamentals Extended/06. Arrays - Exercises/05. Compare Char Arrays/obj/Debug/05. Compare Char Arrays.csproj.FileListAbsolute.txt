@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\05. Compare Char Arrays\obj\Debug\05. Compare Char Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\05. Compare Char Arrays\obj\Debug\05. Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\06. Arrays - Exercises\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.pdb

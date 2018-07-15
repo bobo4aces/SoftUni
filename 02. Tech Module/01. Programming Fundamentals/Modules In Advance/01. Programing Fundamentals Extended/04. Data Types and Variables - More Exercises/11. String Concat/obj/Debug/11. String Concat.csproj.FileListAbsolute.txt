@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\11. String Concat\bin\Debug\_11.String_Concat.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\11. String Concat\bin\Debug\_11.String_Concat.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\11. String Concat\bin\Debug\_11.String_Concat.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\11. String Concat\obj\Debug\11. String Concat.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\11. String Concat\obj\Debug\_11.String_Concat.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\04. Data Types and Variables - More Exercises\11. String Concat\obj\Debug\_11.String_Concat.pdb

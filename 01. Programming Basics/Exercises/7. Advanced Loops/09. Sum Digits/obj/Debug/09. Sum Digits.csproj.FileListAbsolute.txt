@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\09. Sum Digits\obj\Debug\09. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb

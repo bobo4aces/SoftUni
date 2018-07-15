@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\02. Styrofoam\bin\Debug\_02.Styrofoam.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\02. Styrofoam\bin\Debug\_02.Styrofoam.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\02. Styrofoam\bin\Debug\_02.Styrofoam.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\02. Styrofoam\obj\Debug\02. Styrofoam.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\02. Styrofoam\obj\Debug\_02.Styrofoam.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.03.19 - Evening\2017.03.19 - Evening\02. Styrofoam\obj\Debug\_02.Styrofoam.pdb

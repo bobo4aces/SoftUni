@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\02. Tubes In A Pool\bin\Debug\_02.Tubes_In_A_Pool.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\02. Tubes In A Pool\bin\Debug\_02.Tubes_In_A_Pool.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\02. Tubes In A Pool\bin\Debug\_02.Tubes_In_A_Pool.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\02. Tubes In A Pool\obj\Debug\02. Tubes In A Pool.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\02. Tubes In A Pool\obj\Debug\_02.Tubes_In_A_Pool.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.03.26\2016.03.26\02. Tubes In A Pool\obj\Debug\_02.Tubes_In_A_Pool.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\02. Small Shop\obj\Debug\02. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\02. Small Shop\obj\Debug\_02.Small_Shop.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\02. Small Shop\obj\Debug\_02.Small_Shop.pdb

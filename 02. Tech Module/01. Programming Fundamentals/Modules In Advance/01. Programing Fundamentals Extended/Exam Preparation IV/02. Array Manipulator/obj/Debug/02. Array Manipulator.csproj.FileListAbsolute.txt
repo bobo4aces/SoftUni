@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\02. Array Manipulator\obj\Debug\02. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\02. Array Manipulator\obj\Debug\02. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\Exam Preparation IV\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.pdb

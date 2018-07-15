@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\04. Cake\bin\Debug\_04.Cake.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\04. Cake\bin\Debug\_04.Cake.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\04. Cake\bin\Debug\_04.Cake.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\04. Cake\obj\Debug\04. Cake.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\04. Cake\obj\Debug\04. Cake.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\04. Cake\obj\Debug\_04.Cake.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2017.09.03\2017.09.03\04. Cake\obj\Debug\_04.Cake.pdb

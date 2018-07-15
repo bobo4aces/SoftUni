@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\6. Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\_02.Rectangle_of_N_x_N_Stars.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\6. Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\_02.Rectangle_of_N_x_N_Stars.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\6. Drawing Figures with Loops\02. Rectangle of N x N Stars\bin\Debug\_02.Rectangle_of_N_x_N_Stars.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\6. Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\02. Rectangle of N x N Stars.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\6. Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\_02.Rectangle_of_N_x_N_Stars.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\6. Drawing Figures with Loops\02. Rectangle of N x N Stars\obj\Debug\_02.Rectangle_of_N_x_N_Stars.pdb

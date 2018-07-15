@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\02. Harvest\bin\Debug\_02.Harvest.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\02. Harvest\bin\Debug\_02.Harvest.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\02. Harvest\bin\Debug\_02.Harvest.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\02. Harvest\obj\Debug\02. Harvest.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\02. Harvest\obj\Debug\_02.Harvest.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.07.17\2016.07.17\02. Harvest\obj\Debug\_02.Harvest.pdb

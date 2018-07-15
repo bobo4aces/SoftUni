@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\05. Book Library\obj\Debug\05. Book Library.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\05. Book Library\obj\Debug\05. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe.config
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\05. Book Library\bin\Debug\_05.Book_Library.pdb
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\05. Book Library\obj\Debug\_05.Book_Library.exe
+C:\Users\Bo\Desktop\SoftUni\Modules In Advance\01. Programing Fundamentals Extended\09. Objects and Classes - Exercises\05. Book Library\obj\Debug\_05.Book_Library.pdb

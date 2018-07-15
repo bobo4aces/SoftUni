@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\14. Number Table\obj\Debug\14. Number Table.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\14. Number Table\obj\Debug\_14.Number_Table.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\14. Number Table\obj\Debug\_14.Number_Table.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\7. Advanced Loops\14. Number Table\obj\Debug\14. Number Table.csprojResolveAssemblyReference.cache

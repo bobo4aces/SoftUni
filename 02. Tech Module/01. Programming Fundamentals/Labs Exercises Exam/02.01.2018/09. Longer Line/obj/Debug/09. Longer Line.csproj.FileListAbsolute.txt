@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.01.2018\09. Longer Line\bin\Debug\_09.Longer_Line.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.01.2018\09. Longer Line\bin\Debug\_09.Longer_Line.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.01.2018\09. Longer Line\bin\Debug\_09.Longer_Line.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.01.2018\09. Longer Line\obj\Debug\09. Longer Line.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.01.2018\09. Longer Line\obj\Debug\09. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.01.2018\09. Longer Line\obj\Debug\_09.Longer_Line.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Fundamentals\02.01.2018\09. Longer Line\obj\Debug\_09.Longer_Line.pdb

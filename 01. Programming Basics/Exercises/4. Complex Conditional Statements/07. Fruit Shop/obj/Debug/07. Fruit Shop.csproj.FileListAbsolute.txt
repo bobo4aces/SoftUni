@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\07. Fruit Shop\obj\Debug\07. Fruit Shop.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\07. Fruit Shop\obj\Debug\07. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.pdb

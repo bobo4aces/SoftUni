@@ -1,0 +1,6 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\11. Cinema\obj\Debug\11. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\11. Cinema\obj\Debug\_11.Cinema.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exercises\4. Complex Conditional Statements\11. Cinema\obj\Debug\_11.Cinema.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\02. Company\bin\Debug\_02.Company.exe.config
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\02. Company\bin\Debug\_02.Company.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\02. Company\bin\Debug\_02.Company.pdb
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\02. Company\obj\Debug\02. Company.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\02. Company\obj\Debug\02. Company.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\02. Company\obj\Debug\_02.Company.exe
+C:\Users\Bo\Desktop\SoftUni\Programming Basics Exams\2016.08.28\2016.08.28\02. Company\obj\Debug\_02.Company.pdb
